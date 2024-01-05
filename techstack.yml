@@ -2,7 +2,7 @@ repo_name: Clivern/systemd_exporter
 report_id: 4548a3e7a0d929d778ce534bab1db735
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-21T15:27:06+00:00'
+timestamp: '2024-01-05T08:19:02+00:00'
 requested_by: povilasv
 provider: github
 branch: master
@@ -18,6 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/Clivern/systemd_exporter
   detection_source: Repo Metadata
 - name: CircleCI
   description: Automate your development process quickly, safely, and at scale
@@ -27,6 +28,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source_url: https://github.com/Clivern/systemd_exporter/blob/master/.circleci/config.yml
   detection_source: ".circleci/config.yml"
   last_updated_by: Povilas Versockas
   last_updated_on: 2020-03-24 07:19:03.000000000 Z
@@ -39,6 +41,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/Clivern/systemd_exporter
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -48,6 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Clivern/systemd_exporter
   detection_source: Repo Metadata
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
@@ -58,6 +62,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/Clivern/systemd_exporter/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Povilas Versockas
   last_updated_on: 2019-03-20 06:32:43.000000000 Z
@@ -70,6 +75,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/Clivern/systemd_exporter
   detection_source: Repo Metadata
 - name: common
   description: Go libraries shared across Prometheus components and libraries
@@ -177,6 +183,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
+  detection_source_url: https://github.com/Clivern/systemd_exporter/blob/master/go.mod
   detection_source: go.mod
   last_updated_by: Povilas Versockas
   last_updated_on: 2020-03-23 15:18:55.000000000 Z
